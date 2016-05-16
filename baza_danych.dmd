@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="baza_danych" id="BD8C4C9B-B55D-5C2B-9549-1E5032259DA1" version="3.5">
+<createdBy>Lenovo</createdBy>
+<createdTime>2016-04-14 12:50:17 UTC</createdTime>
+<ownerDesignName>baza_danych</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BD8C4C9B-B55D-5C2B-9549-1E5032259DA1</designId>
+</OSDM_Design>
