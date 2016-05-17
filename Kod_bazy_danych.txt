@@ -18,6 +18,7 @@ CREATE TABLE adres
   ) ;
 ALTER TABLE adres ADD CONSTRAINT adres_PK PRIMARY KEY ( id_adresu ) ;
 
+ALTER TABLE adresy ADD CONSTRAINT adres_PK PRIMARY KEY (id_adresu ) ;
 
 CREATE TABLE awaria
   (
